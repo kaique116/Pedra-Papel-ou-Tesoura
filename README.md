@@ -19,3 +19,5 @@ Um joguinho simples, que você joga o famoso pedra, papel ou tesoura. Será que 
     Instalar o Python pelo comando: "brew install python"
     
     O Tkinter já vem instalado no Mac OS!
+
+# PIX PARA DOAÇÕES: "da5e853b-41f5-4f68-963c-e1b425ff9f55"
